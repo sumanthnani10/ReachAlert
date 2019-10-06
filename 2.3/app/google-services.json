@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "985260997161",
+    "firebase_url": "https://reach-alarm.firebaseio.com",
+    "project_id": "reach-alarm",
+    "storage_bucket": "reach-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985260997161:android:5d377056bbd6ec96",
+        "android_client_info": {
+          "package_name": "com.ishmartapps.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985260997161-624j4frlql9qutca7b2mlan0trtka8gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishmartapps.finalapp",
+            "certificate_hash": "e0367884df61bbba051a86ca2bd3096c8d95d78f"
+          }
+        },
+        {
+          "client_id": "985260997161-2qhn41c7npeui5ps14eoslk7t7udeu4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAqSX4jR7qgDv63iCknBpxSA6s6eJo6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985260997161-2qhn41c7npeui5ps14eoslk7t7udeu4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985260997161:android:b4cac7b8ee1f97c5",
+        "android_client_info": {
+          "package_name": "com.ismartapps.reachalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985260997161-h6288tukiu8g5d73bbaftjssn4ufp0am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismartapps.reachalert",
+            "certificate_hash": "95f9da6cb96fddb342deec1d6e821f22824589dd"
+          }
+        },
+        {
+          "client_id": "985260997161-e0l0fv60mcbotuuod13j3fmv98qo2fdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismartapps.reachalert",
+            "certificate_hash": "532d6dfe1ee42951fe508876351519c9c2741752"
+          }
+        },
+        {
+          "client_id": "985260997161-4q3v3nkf26u180jnev9b1jejv3cutmdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismartapps.reachalert",
+            "certificate_hash": "e0367884df61bbba051a86ca2bd3096c8d95d78f"
+          }
+        },
+        {
+          "client_id": "985260997161-2qhn41c7npeui5ps14eoslk7t7udeu4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfAqSX4jR7qgDv63iCknBpxSA6s6eJo6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985260997161-2qhn41c7npeui5ps14eoslk7t7udeu4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
