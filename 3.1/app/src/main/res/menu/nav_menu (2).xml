@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share">
+    </item>
+
+    <item
+        android:id="@+id/sign_out"
+        android:icon="@drawable/ic_sign_out"
+        android:title="@string/sign_out">
+    </item>
+
+    <item android:title="Searched Locations">
+        <menu>
+            <group
+                android:id="@+id/searched_group">
+                <item
+                    android:id="@+id/searched_one"
+                    android:icon="@drawable/places_ic_search"
+                    android:title="Searched Location"/>
+                <item
+                    android:id="@+id/searched_two"
+                    android:icon="@drawable/places_ic_search"
+                    android:title="Searched Location"/>
+                <item
+                    android:id="@+id/searched_three"
+                    android:icon="@drawable/places_ic_search"
+                    android:title="Searched Location"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Recent Locations">
+        <menu>
+            <group
+                android:id="@+id/recent_group">
+                <item
+                    android:id="@+id/recent_one"
+                    android:icon="@mipmap/ic_launcher_address"
+                    android:title="Recent Location"/>
+                <item
+                    android:id="@+id/recent_two"
+                    android:icon="@mipmap/ic_launcher_address"
+                    android:title="Recent Location"/>
+                <item
+                    android:id="@+id/recent_three"
+                    android:icon="@mipmap/ic_launcher_address"
+                    android:title="Recent Location"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

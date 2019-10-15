@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1842a56-37f6-4839-ba87-8590359d54e6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_XL_Android_Q" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ReachAlert" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityPrimary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-756">
+              <caret line="305" column="23" selection-start-line="305" selection-start-column="23" selection-end-line="305" selection-end-column="23" />
+              <folding>
+                <element signature="e#4784#5311#0" />
+                <element signature="e#5082#5128#1" />
+                <element signature="e#5317#6395#0" />
+                <element signature="e#5743#6389#1" />
+                <element signature="e#6491#6853#1" />
+                <element signature="e#6401#7213#0" />
+                <element signature="e#6880#7207#1" />
+                <element signature="e#6952#7132#1" />
+                <element signature="e#7219#9489#0" />
+                <element signature="e#7677#7989#1" />
+                <element signature="e#7746#7914#1" />
+                <element signature="e#8047#9483#1" />
+                <element signature="e#8491#9302#0" />
+                <element signature="e#9354#9401#0" />
+                <element signature="e#9495#9807#0" />
+                <element signature="e#9655#9755#1" />
+                <element signature="e#9761#9801#1" />
+                <element signature="e#9813#10147#0" />
+                <element signature="e#9880#10094#1" />
+                <element signature="e#10316#10438#0" />
+                <element signature="e#10589#10755#1" />
+                <element signature="e#10777#11067#1" />
+                <element signature="e#11304#11630#0" />
+                <element signature="e#11669#11904#0" />
+                <element signature="e#11943#12123#0" />
+                <element signature="e#11987#12113#1" />
+                <element signature="class#12520:12738" />
+                <element signature="e#12845#13088#1" />
+                <element signature="e#13186#13331#0" />
+                <element signature="e#13376#14112#0" />
+                <element signature="e#14151#14910#0" />
+                <element signature="e#14949#15329#0" />
+                <element signature="e#15375#15752#0" />
+                <element signature="e#15802#15938#0" />
+                <element signature="e#15981#16119#0" />
+                <element signature="e#16362#20846#0" />
+                <element signature="e#16430#20810#0" />
+                <element signature="e#18423#18853#1" />
+                <element signature="e#18899#19005#1" />
+                <element signature="e#19261#19691#1" />
+                <element signature="e#19737#19843#1" />
+                <element signature="e#20103#20543#1" />
+                <element signature="e#20589#20697#1" />
+                <element signature="e#20860#21488#0" />
+                <element signature="e#21494#23332#0" />
+                <element signature="e#23338#24253#0" />
+                <element signature="e#23607#24143#1" />
+                <element signature="e#23915#24103#0" />
+                <element signature="e#24156#24247#1" />
+                <element signature="e#24259#25417#0" />
+                <element signature="class#24860:25409" />
+                <element signature="method#onPlaceSelected#0;class#24860:25409" />
+                <element signature="method#onError#0;class#24860:25409" />
+                <element signature="e#25423#25950#0" />
+                <element signature="e#25584#25853#0" />
+                <element signature="e#25876#25920#0" />
+                <element signature="e#25956#31475#0" />
+                <element signature="e#26991#31466#0" />
+                <element signature="e#27324#29381#1" />
+                <element signature="e#27462#27642#1" />
+                <element signature="e#27737#27846#1" />
+                <element signature="e#27943#28001#1" />
+                <element signature="e#28022#28568#1" />
+                <element signature="e#28185#28550#1" />
+                <element signature="e#28834#29225#1" />
+                <element signature="e#29286#29367#1" />
+                <element signature="e#29918#31456#1" />
+                <element signature="e#29978#30134#1" />
+                <element signature="e#30220#31442#1" />
+                <element signature="e#30776#31000#0" />
+                <element signature="e#31023#31422#0" />
+                <element signature="e#31103#31400#1" />
+                <element signature="e#31481#33567#0" />
+                <element signature="e#31799#31864#1" />
+                <element signature="e#32221#32512#1" />
+                <element signature="e#32648#33076#1" />
+                <element signature="e#33350#33409#1" />
+                <element signature="e#33423#33480#1" />
+                <element signature="e#33573#33849#0" />
+                <element signature="e#33855#35284#0" />
+                <element signature="e#33997#35142#0" />
+                <element signature="e#34034#35132#1" />
+                <element signature="e#34162#35116#0" />
+                <element signature="e#34215#34820#1" />
+                <element signature="e#34845#35098#1" />
+                <element signature="e#35178#35278#0" />
+                <element signature="e#35290#36772#0" />
+                <element signature="e#35467#36766#1" />
+                <element signature="e#35771#35810#1" />
+                <element signature="e#35879#36586#1" />
+                <element signature="e#36359#36497#1" />
+                <element signature="e#36778#37300#0" />
+                <element signature="e#37197#37293#0" />
+                <element signature="e#37306#38362#0" />
+                <element signature="e#37678#37722#0" />
+                <element signature="e#37760#37842#1" />
+                <element signature="e#37848#38356#1" />
+                <element signature="e#37911#37990#0" />
+                <element signature="e#38368#39062#0" />
+                <element signature="e#38654#39056#1" />
+                <element signature="e#38698#38918#1" />
+                <element signature="e#38716#38799#0" />
+                <element signature="e#38997#39046#1" />
+                <element signature="e#39068#39213#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityFinal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="475" column="1" lean-forward="true" selection-start-line="475" selection-start-column="1" selection-end-line="475" selection-end-column="1" />
+              <folding>
+                <element signature="class#3839:4498" />
+                <element signature="method#onServiceConnected#0;class#3839:4498" />
+                <element signature="method#onServiceDisconnected#0;class#3839:4498" />
+                <element signature="e#4506#4892#0" />
+                <element signature="e#4898#5128#0" />
+                <element signature="e#5134#6147#0" />
+                <element signature="e#6153#9941#0" />
+                <element signature="e#7817#8376#1" />
+                <element signature="e#8390#8944#1" />
+                <element signature="e#9046#9188#0" />
+                <element signature="e#9245#9554#0" />
+                <element signature="e#9311#9544#1" />
+                <element signature="e#9592#9933#0" />
+                <element signature="e#9666#9923#1" />
+                <element signature="e#9947#10467#0" />
+                <element signature="e#9990#10079#0" />
+                <element signature="e#10473#10962#0" />
+                <element signature="e#10564#10956#1" />
+                <element signature="e#10578#10665#0" />
+                <element signature="e#10968#12044#0" />
+                <element signature="e#11029#12038#0" />
+                <element signature="e#11235#12028#1" />
+                <element signature="e#11688#12014#1" />
+                <element signature="e#12050#13219#0" />
+                <element signature="e#12367#12764#1" />
+                <element signature="e#12786#13213#1" />
+                <element signature="e#13225#13703#0" />
+                <element signature="e#13709#14084#0" />
+                <element signature="e#14090#15644#0" />
+                <element signature="e#14550#15638#1" />
+                <element signature="e#15733#16116#1" />
+                <element signature="e#15650#17558#0" />
+                <element signature="e#16699#16875#1" />
+                <element signature="e#16981#17148#1" />
+                <element signature="e#17170#17337#1" />
+                <element signature="e#17564#17654#0" />
+                <element signature="e#17660#17985#0" />
+                <element signature="e#17991#18373#0" />
+                <element signature="e#18379#20219#0" />
+                <element signature="e#18463#19848#0" />
+                <element signature="class#18563:19836" />
+                <element signature="method#onComplete#0;class#18563:19836" />
+                <element signature="e#18790#19346#1" />
+                <element signature="e#19352#19788#1" />
+                <element signature="e#19884#20213#0" />
+                <element signature="e#20225#21234#0" />
+                <element signature="class#20539:21225" />
+                <element signature="method#onAdLoaded#0;class#20539:21225" />
+                <element signature="e#20696#20817#1" />
+                <element signature="method#onAdFailedToLoad#0;class#20539:21225" />
+                <element signature="method#onAdClosed#0;class#20539:21225" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivitySecondary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="207" column="27" lean-forward="true" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="27" />
+              <folding>
+                <element signature="method#onCreate#0;class#MapsActivitySecondary#0" />
+                <element signature="method#initVars#0;class#MapsActivitySecondary#0" />
+                <element signature="method#init#0;class#MapsActivitySecondary#0" />
+                <element signature="e#5040#5099#1" />
+                <element signature="class#5446:6453" />
+                <element signature="method#onProgressChanged#0;class#5446:6453" />
+                <element signature="e#5666#5751#1" />
+                <element signature="method#onStartTrackingTouch#0;class#5446:6453" />
+                <element signature="method#onStopTrackingTouch#0;class#5446:6453" />
+                <element signature="e#6500#6645#0" />
+                <element signature="e#6684#7054#0" />
+                <element signature="e#7092#7459#0" />
+                <element signature="e#7501#7639#0" />
+                <element signature="e#7682#7822#0" />
+                <element signature="e#7865#8098#0" />
+                <element signature="e#7932#8088#1" />
+                <element signature="class#8141:8517" />
+                <element signature="method#onClick#0;class#8141:8517" />
+                <element signature="e#8298#8492#1" />
+                <element signature="method#showAd#0;class#MapsActivitySecondary#0" />
+                <element signature="class#8855:9597" />
+                <element signature="method#onAdLoaded#0;class#8855:9597" />
+                <element signature="e#9012#9133#1" />
+                <element signature="method#onAdFailedToLoad#0;class#8855:9597" />
+                <element signature="method#onAdClosed#0;class#8855:9597" />
+                <element signature="method#onBackPressed#0;class#MapsActivitySecondary#0" />
+                <element signature="method#goToFinal#0;class#MapsActivitySecondary#0" />
+                <element signature="method#onMapReady#0;class#MapsActivitySecondary#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Searched</find>
+      <find>searched</find>
+      <find>upload</find>
+      <find>sign</find>
+      <find>update</find>
+      <find>updateSe</find>
+      <find>one</find>
+      <find>tick</find>
+      <find>databaseReference</find>
+      <find>FirebaseAuth.getInstance().getCurrentUser().getDisplayName()</find>
+      <find>showA</find>
+      <find>Banner</find>
+      <find>adView</find>
+      <find>pub</find>
+      <find>u</find>
+      <find>init</find>
+      <find>Popup</find>
+      <find>notification_small_icon</find>
+      <find>Pop</find>
+      <find>g</find>
+      <find>Calcul</find>
+      <find>getDista</find>
+      <find>getN</find>
+      <find>onNew</find>
+      <find>+++++++</find>
+      <find>getLastLocation</find>
+      <find>current</find>
+      <find>getDis</find>
+      <find>ad</find>
+      <find>Ad</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>16</replace>
+      <replace>Drawer</replace>
+      <replace>Recent</replace>
+      <replace>recent</replace>
+      <replace>two</replace>
+      <replace>three</replace>
+      <replace>userName</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\Sumanth\AndroidStudioProjects\ReachAlert\reachalert.jks" />
+    <option name="KEY_ALIAS" value="sumanthb" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/NavigationDrawerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ishmartapps/reachalert/MapsActivityFinal.java" />
+        <option value="$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
+        <option value="$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesRefreshReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/DrawerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/nav_menu_lists.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LoationUpdatesClientReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ConfirmationDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/TargetDetails.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/round_corner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesBroadcastReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesClientReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesCancelReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/round.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/TargetDetails.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/UserLatestData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/FullScreenIntent.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/StopRing.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/nav_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/NamePrompt.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/RemainderReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/name_prompt.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/tick_anim.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/Popup.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/Utils.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/custom_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_navigation.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/ConfirmationDialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fullscreenintent.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/splash_animation.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/SplashActivityNotification.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivitySecondary.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/splash_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityFinal.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityPrimary.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ismartapps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ismartapps" type="462c0819:PsiDirectoryNode" />
+              <item name="reachalert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ismartapps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ismartapps" type="462c0819:PsiDirectoryNode" />
+              <item name="reachalert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReachAlert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReachAlert" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/release/app-release.apk" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="J8AAGF02J0939MD" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-08T16:47:26.909Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Sumanth\AndroidStudioProjects\ReachAlert\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="J8AAGF02J0939MD" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/NavigationViewExpandableListView/NavigationViewExpandableListView" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sumanth\AndroidStudioProjects\ReachAlert\app" />
+      <recent name="C:\Users\Sumanth\AndroidStudioProjects\ReachAlert\app\src\main\java\com\ismartapps\reachalert" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ismartapps.reachalert" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.ismartapps.reachalert" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ismartapps.reachalert" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sumanth\AndroidStudioProjects\ReachAlert\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1842a56-37f6-4839-ba87-8590359d54e6" name="Default Changelist" comment="" />
+      <created>1564738133653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564738133653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4990366" visible="true" weight="0.19261745" />
+      <window_info id="Structure" order="2" sideWeight="0.5009634" side_tool="true" weight="0.19261745" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" sideWeight="0.4990366" weight="0.3295302" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49932885" visible="true" weight="0.3235725" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50067115" side_tool="true" weight="0.3250346" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932885" weight="0.24011713" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.329429" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0/9ecd4ecb7da215ba4c5c3e00bf8d290dad6f2bc5/drawerlayout-1.0.0-sources.jar!/androidx/drawerlayout/widget/DrawerLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_button.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/round_corner.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="89" lean-forward="true" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/androidx/localbroadcastmanager/content/LocalBroadcastManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesBroadcastReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesClientReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesCancelReceiver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/round.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/app/PendingIntent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/TargetDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getCurrent#0;class#TargetDetails#0" />
+            <element signature="method#getTarget#0;class#TargetDetails#0" />
+            <element signature="class#1806:2092" />
+            <element signature="method#writeToParcel#0;class#TargetDetails#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5a43648cb1e40c91d49bc9674896162d/play-services-maps-17.0.0/jars/classes.jar!/com/google/android/gms/maps/model/LatLng.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/UserLatestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/FullScreenIntent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/StopRing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b48de428ccf05fe44f6feb048251c6f7/places-2.0.0/jars/classes.jar!/com/google/android/libraries/places/widget/AutocompleteSupportFragment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1769">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8dc462a223e4980f43d791bae88c5e1f/firebase-auth-18.1.0/jars/classes.jar!/com/google/firebase/auth/FirebaseUser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2007">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/sign_out.svg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_sign_out.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/nav_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="264" column="47" selection-start-line="264" selection-start-column="43" selection-end-line="264" selection-end-column="47" />
+          <folding>
+            <element signature="e#624#902#0" />
+            <element signature="e#912#1930#0" />
+            <element signature="e#1320#1885#0" />
+            <element signature="e#1940#2566#0" />
+            <element signature="e#2576#3164#0" />
+            <element signature="e#3174#3751#0" />
+            <element signature="e#4143#4875#0" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/RemainderReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="85" column="103" selection-start-line="85" selection-start-column="103" selection-end-line="85" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/NamePrompt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onBackPressed#0;class#NamePrompt#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/tick_anim.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/name_prompt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/popup.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding>
+            <element signature="method#createSignInIntent#0;class#LoginActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="55" column="66" selection-start-line="55" selection-start-column="66" selection-end-line="55" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/custom_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="43" column="71" selection-start-line="43" selection-start-column="71" selection-end-line="43" selection-end-column="71" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_navigation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/ConfirmationDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fullscreenintent.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/splash_animation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/SplashActivityNotification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/38c6d559f7b558d0ea62faa8a1198f3c/play-services-location-17.0.0/jars/classes.jar!/com/google/android/gms/location/LocationResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/LocationUpdatesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="246" column="4" selection-start-line="246" selection-start-column="4" selection-end-line="246" selection-end-column="4" />
+          <folding>
+            <element signature="method#LocationUpdatesService#0;class#LocationUpdatesService#0" />
+            <element signature="e#3491#3897#1" />
+            <element signature="method#onStartCommand#0;class#LocationUpdatesService#0" />
+            <element signature="e#4141#4213#1" />
+            <element signature="method#onBind#0;class#LocationUpdatesService#0" />
+            <element signature="e#4415#4500#0" />
+            <element signature="method#onUnbind#0;class#LocationUpdatesService#0" />
+            <element signature="e#4945#4946#0" expanded="true" />
+            <element signature="e#5009#5010#0" expanded="true" />
+            <element signature="method#requestLocationUpdates#0;class#LocationUpdatesService#0" />
+            <element signature="e#5263#5407#0" />
+            <element signature="e#5443#5607#0" />
+            <element signature="method#removeLocationUpdates#0;class#LocationUpdatesService#0" />
+            <element signature="e#5718#5889#0" />
+            <element signature="e#5925#6087#0" />
+            <element signature="e#7339#7410#1" />
+            <element signature="method#getLastLocation#0;class#LocationUpdatesService#0" />
+            <element signature="e#8350#8425#0" />
+            <element signature="method#createLocationRequest#0;class#LocationUpdatesService#0" />
+            <element signature="class#LocalBinder#0;class#LocationUpdatesService#0" />
+            <element signature="method#getDistance#0;class#LocationUpdatesService#0" />
+            <element signature="e#9948#10030#1" />
+            <element signature="method#setTarget#0;class#LocationUpdatesService#0" />
+            <element signature="method#setRadius#0;class#LocationUpdatesService#0" />
+            <element signature="method#setName#0;class#LocationUpdatesService#0" />
+            <element signature="method#setActivity#0;class#LocationUpdatesService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/Popup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="98" column="41" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
+          <folding>
+            <element signature="method#setRequestingLocationUpdates#0;class#Utils#0" />
+            <element signature="method#sendNotificationOnComplete#0;class#Utils#0" />
+            <element signature="e#2841#3448#1" />
+            <element signature="e#4158#4242#1" />
+            <element signature="method#stopRing#0;class#Utils#0" />
+            <element signature="e#5011#5053#1" />
+            <element signature="method#clearNotifications#0;class#Utils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityPrimary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="305" column="23" selection-start-line="305" selection-start-column="23" selection-end-line="305" selection-end-column="23" />
+          <folding>
+            <element signature="e#4784#5311#0" />
+            <element signature="e#5082#5128#1" />
+            <element signature="e#5317#6395#0" />
+            <element signature="e#5743#6389#1" />
+            <element signature="e#6491#6853#1" />
+            <element signature="e#6401#7213#0" />
+            <element signature="e#6880#7207#1" />
+            <element signature="e#6952#7132#1" />
+            <element signature="e#7219#9489#0" />
+            <element signature="e#7677#7989#1" />
+            <element signature="e#7746#7914#1" />
+            <element signature="e#8047#9483#1" />
+            <element signature="e#8491#9302#0" />
+            <element signature="e#9354#9401#0" />
+            <element signature="e#9495#9807#0" />
+            <element signature="e#9655#9755#1" />
+            <element signature="e#9761#9801#1" />
+            <element signature="e#9813#10147#0" />
+            <element signature="e#9880#10094#1" />
+            <element signature="e#10316#10438#0" />
+            <element signature="e#10589#10755#1" />
+            <element signature="e#10777#11067#1" />
+            <element signature="e#11304#11630#0" />
+            <element signature="e#11669#11904#0" />
+            <element signature="e#11943#12123#0" />
+            <element signature="e#11987#12113#1" />
+            <element signature="class#12520:12738" />
+            <element signature="e#12845#13088#1" />
+            <element signature="e#13186#13331#0" />
+            <element signature="e#13376#14112#0" />
+            <element signature="e#14151#14910#0" />
+            <element signature="e#14949#15329#0" />
+            <element signature="e#15375#15752#0" />
+            <element signature="e#15802#15938#0" />
+            <element signature="e#15981#16119#0" />
+            <element signature="e#16362#20846#0" />
+            <element signature="e#16430#20810#0" />
+            <element signature="e#18423#18853#1" />
+            <element signature="e#18899#19005#1" />
+            <element signature="e#19261#19691#1" />
+            <element signature="e#19737#19843#1" />
+            <element signature="e#20103#20543#1" />
+            <element signature="e#20589#20697#1" />
+            <element signature="e#20860#21488#0" />
+            <element signature="e#21494#23332#0" />
+            <element signature="e#23338#24253#0" />
+            <element signature="e#23607#24143#1" />
+            <element signature="e#23915#24103#0" />
+            <element signature="e#24156#24247#1" />
+            <element signature="e#24259#25417#0" />
+            <element signature="class#24860:25409" />
+            <element signature="method#onPlaceSelected#0;class#24860:25409" />
+            <element signature="method#onError#0;class#24860:25409" />
+            <element signature="e#25423#25950#0" />
+            <element signature="e#25584#25853#0" />
+            <element signature="e#25876#25920#0" />
+            <element signature="e#25956#31475#0" />
+            <element signature="e#26991#31466#0" />
+            <element signature="e#27324#29381#1" />
+            <element signature="e#27462#27642#1" />
+            <element signature="e#27737#27846#1" />
+            <element signature="e#27943#28001#1" />
+            <element signature="e#28022#28568#1" />
+            <element signature="e#28185#28550#1" />
+            <element signature="e#28834#29225#1" />
+            <element signature="e#29286#29367#1" />
+            <element signature="e#29918#31456#1" />
+            <element signature="e#29978#30134#1" />
+            <element signature="e#30220#31442#1" />
+            <element signature="e#30776#31000#0" />
+            <element signature="e#31023#31422#0" />
+            <element signature="e#31103#31400#1" />
+            <element signature="e#31481#33567#0" />
+            <element signature="e#31799#31864#1" />
+            <element signature="e#32221#32512#1" />
+            <element signature="e#32648#33076#1" />
+            <element signature="e#33350#33409#1" />
+            <element signature="e#33423#33480#1" />
+            <element signature="e#33573#33849#0" />
+            <element signature="e#33855#35284#0" />
+            <element signature="e#33997#35142#0" />
+            <element signature="e#34034#35132#1" />
+            <element signature="e#34162#35116#0" />
+            <element signature="e#34215#34820#1" />
+            <element signature="e#34845#35098#1" />
+            <element signature="e#35178#35278#0" />
+            <element signature="e#35290#36772#0" />
+            <element signature="e#35467#36766#1" />
+            <element signature="e#35771#35810#1" />
+            <element signature="e#35879#36586#1" />
+            <element signature="e#36359#36497#1" />
+            <element signature="e#36778#37300#0" />
+            <element signature="e#37197#37293#0" />
+            <element signature="e#37306#38362#0" />
+            <element signature="e#37678#37722#0" />
+            <element signature="e#37760#37842#1" />
+            <element signature="e#37848#38356#1" />
+            <element signature="e#37911#37990#0" />
+            <element signature="e#38368#39062#0" />
+            <element signature="e#38654#39056#1" />
+            <element signature="e#38698#38918#1" />
+            <element signature="e#38716#38799#0" />
+            <element signature="e#38997#39046#1" />
+            <element signature="e#39068#39213#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivityFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="475" column="1" lean-forward="true" selection-start-line="475" selection-start-column="1" selection-end-line="475" selection-end-column="1" />
+          <folding>
+            <element signature="class#3839:4498" />
+            <element signature="method#onServiceConnected#0;class#3839:4498" />
+            <element signature="method#onServiceDisconnected#0;class#3839:4498" />
+            <element signature="e#4506#4892#0" />
+            <element signature="e#4898#5128#0" />
+            <element signature="e#5134#6147#0" />
+            <element signature="e#6153#9941#0" />
+            <element signature="e#7817#8376#1" />
+            <element signature="e#8390#8944#1" />
+            <element signature="e#9046#9188#0" />
+            <element signature="e#9245#9554#0" />
+            <element signature="e#9311#9544#1" />
+            <element signature="e#9592#9933#0" />
+            <element signature="e#9666#9923#1" />
+            <element signature="e#9947#10467#0" />
+            <element signature="e#9990#10079#0" />
+            <element signature="e#10473#10962#0" />
+            <element signature="e#10564#10956#1" />
+            <element signature="e#10578#10665#0" />
+            <element signature="e#10968#12044#0" />
+            <element signature="e#11029#12038#0" />
+            <element signature="e#11235#12028#1" />
+            <element signature="e#11688#12014#1" />
+            <element signature="e#12050#13219#0" />
+            <element signature="e#12367#12764#1" />
+            <element signature="e#12786#13213#1" />
+            <element signature="e#13225#13703#0" />
+            <element signature="e#13709#14084#0" />
+            <element signature="e#14090#15644#0" />
+            <element signature="e#14550#15638#1" />
+            <element signature="e#15733#16116#1" />
+            <element signature="e#15650#17558#0" />
+            <element signature="e#16699#16875#1" />
+            <element signature="e#16981#17148#1" />
+            <element signature="e#17170#17337#1" />
+            <element signature="e#17564#17654#0" />
+            <element signature="e#17660#17985#0" />
+            <element signature="e#17991#18373#0" />
+            <element signature="e#18379#20219#0" />
+            <element signature="e#18463#19848#0" />
+            <element signature="class#18563:19836" />
+            <element signature="method#onComplete#0;class#18563:19836" />
+            <element signature="e#18790#19346#1" />
+            <element signature="e#19352#19788#1" />
+            <element signature="e#19884#20213#0" />
+            <element signature="e#20225#21234#0" />
+            <element signature="class#20539:21225" />
+            <element signature="method#onAdLoaded#0;class#20539:21225" />
+            <element signature="e#20696#20817#1" />
+            <element signature="method#onAdFailedToLoad#0;class#20539:21225" />
+            <element signature="method#onAdClosed#0;class#20539:21225" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ismartapps/reachalert/MapsActivitySecondary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="207" column="27" lean-forward="true" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="27" />
+          <folding>
+            <element signature="method#onCreate#0;class#MapsActivitySecondary#0" />
+            <element signature="method#initVars#0;class#MapsActivitySecondary#0" />
+            <element signature="method#init#0;class#MapsActivitySecondary#0" />
+            <element signature="e#5040#5099#1" />
+            <element signature="class#5446:6453" />
+            <element signature="method#onProgressChanged#0;class#5446:6453" />
+            <element signature="e#5666#5751#1" />
+            <element signature="method#onStartTrackingTouch#0;class#5446:6453" />
+            <element signature="method#onStopTrackingTouch#0;class#5446:6453" />
+            <element signature="e#6500#6645#0" />
+            <element signature="e#6684#7054#0" />
+            <element signature="e#7092#7459#0" />
+            <element signature="e#7501#7639#0" />
+            <element signature="e#7682#7822#0" />
+            <element signature="e#7865#8098#0" />
+            <element signature="e#7932#8088#1" />
+            <element signature="class#8141:8517" />
+            <element signature="method#onClick#0;class#8141:8517" />
+            <element signature="e#8298#8492#1" />
+            <element signature="method#showAd#0;class#MapsActivitySecondary#0" />
+            <element signature="class#8855:9597" />
+            <element signature="method#onAdLoaded#0;class#8855:9597" />
+            <element signature="e#9012#9133#1" />
+            <element signature="method#onAdFailedToLoad#0;class#8855:9597" />
+            <element signature="method#onAdClosed#0;class#8855:9597" />
+            <element signature="method#onBackPressed#0;class#MapsActivitySecondary#0" />
+            <element signature="method#goToFinal#0;class#MapsActivitySecondary#0" />
+            <element signature="method#onMapReady#0;class#MapsActivitySecondary#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
